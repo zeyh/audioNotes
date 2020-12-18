@@ -13,7 +13,9 @@ npm-debug.*
 *.orig.*
 web-build/
 cache/*
+
 firebase.js
+database.rules.json
 
 # macOS
 .DS_Store
